@@ -44,17 +44,18 @@
 
 ## ✅&nbsp; Key Features
 
-* Hot Reload - Make changes, See changes
+* Hot Reload - Make changes, See changes instantly
   - Instantly see what your changes look like in the browser as you create them.
-* Easily add/update content
+* Easily add/update/modify components and content
 * Smooth long-scroll animation
 * Full-width imagery 
-* Tailwind CSS styling
+* Uses Tailwind CSS a highly customizable CSS framework
 * Vue Meta plugin for search engine optimization  
 * Free stock photos by Unsplash
 * Optimized with clean code and organized structure
+* Uses PostCSS for increased code readability
 * Component driven development 
-* One click Vercel/Netlify deployments
+* Simple one click deployments to any CDN including Vercel/Netlify
 * Free updates  
   - Get access to the first version today, plus new updates until we're out of ideas.
 * World class support by us! 
