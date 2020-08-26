@@ -75,7 +75,7 @@
   <br>
     <a href="https://vuethemes.org/theme/ace">
      <img width=60% src="https://github.com/vuethemes/ace/blob/master/aceLighthouseScreenshot.png" alt="Ace Lighthouse Score screenshot"></a> <br>
-  <img width=60% src="https://github.com/vuethemes/ace/blob/master/AceLighthouse.gif" alt="Ace Lighthouse Score gif"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/ace/blob/master/aceLighthouse.gif" alt="Ace Lighthouse Score gif"></a> <br>
   <br>
 </p>
 
