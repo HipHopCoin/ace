@@ -1,0 +1,73 @@
+{
+  "name": "ace-vuethemes",
+  "description": "A modern Vue.js template for portfolio website development",
+  "version": "1.1.1",
+  "homepage": "https://ace.vuethemes.org",
+  "author": {
+    "name": "Vue Themes",
+    "url": "https://vuethemes.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuethemes/ace.git"
+  },
+  "license": "https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz",
+  "bugs": {
+    "url": "https://github.com/vuethemes/ace/issues"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "javascript",
+    "frontend",
+    "tailwind",
+    "tailwindcss",
+    "vuethemes",
+    "template",
+    "boilerplate",
+    "theme",
+    "vuethemes",
+    "template"
+  ],
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.3.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
