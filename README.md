@@ -77,9 +77,15 @@
 
 ## 🚀&nbsp; How To Use
 
-To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/ace) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/ace) then run the following commands:
 
 ```bash
+# Install npm (npm is installed with Node.js)
+$ npm install npm@latest -g
+
+# Install Vue cli
+$ npm install -g @vue/cli
+
 # Go into the repository
 $ cd ace-vuethemes
 
