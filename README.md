@@ -106,63 +106,6 @@ $ npm run lint
 
 Here is where you can [download](https://vuethemes.org/theme/ace) the latest installable version of Ace.
 
-## 🌲&nbsp; Structure
-
-We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
-
-<pre>
-public/
-┃ ┣ css/
-┃ ┃ ┗ style.min.css
-┃ ┣ js/
-┃ ┃ ┣ jquery-2.2.2.min.js
-┃ ┃ ┣ scripts.js
-┃ ┃ ┗ theme-app.js
-┃ ┣ favicon.ico
-┃ ┗ index.html
-┣ src/
-┃ ┣ assets/
-┃ ┃ ┣ css/
-┃ ┃ ┃ ┗ style.css
-┃ ┃ ┣ images
-┃ ┣ components/
-┃ ┃ ┣ common/
-┃ ┃ ┃ ┣ FullPageSlideDots.vue
-┃ ┃ ┃ ┣ Logo.vue
-┃ ┃ ┃ ┣ NextButton.vue
-┃ ┃ ┃ ┣ PrevButton.vue
-┃ ┃ ┃ ┣ SectionDetailsButtons.vue
-┃ ┃ ┃ ┣ SectionDetailsContent.vue
-┃ ┃ ┃ ┣ SideMention.vue
-┃ ┃ ┃ ┣ SideMenu.vue
-┃ ┃ ┃ ┗ ThemeHeader.vue
-┃ ┃ ┣ sections/
-┃ ┃ ┃ ┣ Section1.vue
-┃ ┃ ┃ ┣ Section2.vue
-┃ ┃ ┃ ┣ Section3.vue
-┃ ┃ ┃ ┣ Section4.vue
-┃ ┃ ┃ ┣ Section5.vue
-┃ ┃ ┃ ┣ Section6.vue
-┃ ┃ ┃ ┣ Section7.vue
-┃ ┃ ┃ ┗ Section8.vue
-┃ ┃ ┃ ┣ Section10.vue
-┃ ┃ ┃ ┣ Section12.vue
-┃ ┃ ┃ ┣ Section14.vue
-┃ ┃ ┃ ┣ Section15.vue
-┃ ┃ ┗ sliders/
-┃ ┃ ┃ ┗ slider1/
-┃ ┃ ┃ ┃ ┣ SliderOne.vue
-┃ ┃ ┃ ┃ ┗ SliderOneContent.vue
-┃ ┣ App.vue
-┃ ┣ main.js
-┃ ┗ routes.js
-┣ README.md
-┣ babel.config.js
-┣ package.json
-┣ postcss.config.js
-┗ tailwind.config.js
-</pre>
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
